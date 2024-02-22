@@ -1,0 +1,17 @@
+ step 1: 
+first open the terminal and type 
+C:\Users\User>python -m venv C:\Users\User\Desktop\Signature-Matching-main\Signature-Matching-main\venv
+
+step 2; venv\Scripts\activate 
+
+step 3: install all module you require
+
+step 4 then run the project
+    
+
+
+
+
+
+
+thank you.
